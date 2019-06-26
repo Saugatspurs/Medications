@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729956639943",
+    "firebase_url": "https://databasemanagementsystem-78837.firebaseio.com",
+    "project_id": "databasemanagementsystem-78837",
+    "storage_bucket": "databasemanagementsystem-78837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729956639943:android:9ba563811d3426f7",
+        "android_client_info": {
+          "package_name": "com.example.student.databasemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729956639943-jofltbk5l15ev70d3cjipf49gmgph7dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student.databasemanagementsystem",
+            "certificate_hash": "7da162180eeb1248a59cfd4101f23c42a4fec540"
+          }
+        },
+        {
+          "client_id": "729956639943-s5to8f470gbkdqpqmlu2r7b1f2d72d5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzEZicrB2d53SZRtSwlCQ_Cd2gM4t4pco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729956639943-s5to8f470gbkdqpqmlu2r7b1f2d72d5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
